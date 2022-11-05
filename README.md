@@ -67,3 +67,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## Bootcamp
 [Continue bootcamp](https://bootcamp.laravel.com/blade/showing-chirps)
+
+## Extra lectures
+[Mass assignment vulnerability](https://en.wikipedia.org/wiki/Mass_assignment_vulnerability)
+[Eloquent mass assignment](https://laravel.com/docs/9.x/eloquent#mass-assignment)
